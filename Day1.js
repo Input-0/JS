@@ -24,11 +24,24 @@
 
 
 
-let one ={
-    name: "two",
-    gender:"female"
-}
+// let one ={
+//     name: "two",
+//     gender:"female"
+// }
 
-let two = "name"
+// let two = "name"
 
-console.log(one[two])
+// console.log(one[two])
+
+
+
+// function Two(name,age){
+//     this.name = name
+
+//     this.age = age
+// }
+
+// let five = new Two("rahul",21)
+// console.log(five)
+let one = new Date("2-12-2003")
+console.log(one)
